@@ -1,0 +1,25 @@
+http://earth-info.nga.mil/GandG/coordsys/grids/universal_grid_system.html#zzd1
+
+Universal Transverse Mercator (UTM), the Military Grid Reference System (MGRS), and the Universal Polar Stereographic (UPS)
+
+
+Universal Transverse Mercator (UTM) 1km Polyline Shapefile (.shp): Downloads
+http://earth-info.nga.mil/GandG/coordsys/grids/mgrs_100km_dloads.html
+
+UTM Zone Boundaries Shapefile
+UTM 1km Polyline Grid Shapefile
+
+
+
+
+Additional Links to Grid Shapefiles Files:
+UTM 1km Polyline Shapefile Geodatabase (Current FY2011 Coverage)
+Universal Grid System: Overview
+MGRS 100km Grid Downloads
+
+
+
+
+
+
+ Military Grid Reference System (MGRS): Downloads
